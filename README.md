@@ -20,7 +20,7 @@ Ark | Hackathon Materials & Resources
 - [ ] Ark Introduction Slides & Resources
 - [ ] Ark Workshop Slides & Resources
 
-### Swag
+#### Swag
 - [ ] Stickers
 - [ ] Brochures
 - [ ] T-Shirts
