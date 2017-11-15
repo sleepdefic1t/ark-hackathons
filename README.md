@@ -5,15 +5,15 @@
 Ark | Hackathon Materials & Resources
 
 #### Team
-- [ ] Team Timesheet | rotate so someones always there?
-- [ ] Team List and Contact info
+- [x] [Team Timesheet](https://github.com/sleepdefic1t/ark-hackathons/blob/master/team/TIME_SHEET.md)
+- [x] [Team List and Contact info](https://github.com/sleepdefic1t/ark-hackathons/blob/master/team/TEAM_LIST.md)
 - [ ] Team Observation Notes and Ideas.
 - [ ] Team Prize List
 
 #### Student
 - [ ] Student Fast-Track Project Proposal
 - [ ] Student Equipment Sign-out sheet
-- [ ] Team List and Slack/Hackathon Name (ex: 'ark-mike')
+- [x] [Team List and Slack/Hackathon Name (ex: 'ark-mike')](https://github.com/sleepdefic1t/ark-hackathons/blob/master/student/EXT_TEAM_LIST.md)
 - [ ] Student Prize List
 
 #### Presentations
